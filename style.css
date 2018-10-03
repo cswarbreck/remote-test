@@ -303,7 +303,7 @@ button,
 input,
 select,
 textarea {
-	color: #1a1a1a;
+	color: #af0808;
 	font-family: Merriweather, Georgia, serif;
 	font-size: 16px;
 	font-size: 1rem;
@@ -463,12 +463,12 @@ html {
 }
 
 body {
-	background: #1a1a1a;
+	background: #5e47c7;
 	/* Fallback for when there is no custom background color defined. */
 }
 
 hr {
-	background-color: #d1d1d1;
+	background-color: #cbd44c;
 	border: 0;
 	height: 1px;
 	margin: 0 0 1.75em;
